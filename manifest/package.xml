@@ -29,12 +29,20 @@
         <name>LightningComponentBundle</name>
     </types>
     <types>
+        <members>Document_Type__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>GlobalValueSet</name>
     </types>
     <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>Common_Object_Permission_Set</members>
+        <name>PermissionSet</name>
     </types>
     <version>46.0</version>
 </Package>

@@ -1,0 +1,5 @@
+SELECT
+		Id,
+		Name,
+		Description__c
+FROM Document_Type__c
